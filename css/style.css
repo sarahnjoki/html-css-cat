@@ -1,0 +1,114 @@
+#heading1{
+	color: white;
+	padding-left: 20px;
+	margin-bottom: 10px;
+	background-image: url( ../img/Hydrangeas.jpg);
+	color: white;
+	overflow: auto;
+	
+}
+
+#heading2{
+	border-bottom: 1px black solid;
+	padding-left: 20px;
+	margin-bottom: 5px;
+	background-image: url( ../img/Hydrangeas.jpg);
+	color: white}
+
+
+
+.main1 h2{
+	border: 1px solid black;
+	width: 45%;
+	margin: auto;
+	padding-top: 5px;
+	
+}
+.main1 p{
+	width: 40%;
+	margin: auto;
+	margin-top: 20PX;
+	font-size: 1em;
+
+}
+
+
+.main2 {
+	width: 50%;
+	background-color: brown;
+	float: left;
+	height: 15em;
+}
+p{
+	text-align: center;
+	height: 5em;
+}
+
+
+.main3 {
+	width: 50%;
+	background-color: blue;
+	float: left;
+	height: 15em;
+}
+#footer{
+	clear: both;
+	background-color: grey;
+	height: 5em;
+}
+.links{
+	
+	width:30%;
+	position:absolute;
+	top:50px;
+	right:0;}
+
+	.links li{
+		display: inline;
+		padding:10px;
+
+	}
+	.links li a{
+		color:white;
+		text-decoration: none;}
+
+		a:hover{ 
+			background-color:green;
+		}
+
+
+		.enter{
+			margin-top:30px;
+
+		}
+		.enter a{
+			text-decoration: none;
+			color:white;
+			background-color: grey;
+			border:1px white solid;
+		}
+		.enter a:hover{
+			background-color: blue;
+		}
+
+		.main2 h2{
+
+			border: 1px solid white;
+			margin-top: 20px;
+			text-align: center;
+			padding-top: 10px;
+			text-decoration: none;
+			width: 10em;
+
+		}
+		.main3 h3{
+
+			border: 1px solid white;
+			margin-top: 20px;
+			text-align: center;
+			padding-top: 10px;
+			text-decoration: none;
+			width: 10em;
+
+		}
+
